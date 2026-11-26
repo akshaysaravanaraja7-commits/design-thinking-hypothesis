@@ -1,0 +1,6 @@
+{
+  "name": "HYPOTHESIS",
+  "description": "AI-powered investigation and evidence-based reasoning platform. Turn complex questions into structured investigations with competing hypotheses, verified sources, contradiction analysis, and transparent reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
